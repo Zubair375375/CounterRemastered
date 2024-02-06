@@ -1,0 +1,23 @@
+/* .volume-container {
+  width: 200px;
+  background-color: #ddd;
+  margin: 20px;
+  padding: 10px;
+  border-radius: 5px;
+} */
+
+.volume-bar {
+  width: 100%;
+  height: 20px;
+  background-color: #aaa;
+  border-radius: 5px;
+  position: relative;
+  cursor: pointer;
+}
+
+.volume-level {
+  height: 100%;
+  background-color: #076eff;
+  border-radius: 5px;
+  position: absolute;
+}
